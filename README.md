@@ -1,6 +1,6 @@
 ## hey, i'm ryan
 
-![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
+![kon]([https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif](https://giphy.com/stickers/bleach-anime-chibi-m3h6iqBQUOWxdQZqkZ))
 
 
 <!--
