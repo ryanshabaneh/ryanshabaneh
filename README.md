@@ -1,6 +1,7 @@
 ## hey, i'm ryan
 
-![kon](https://media4.giphy.com/media/m3h6iqBQUOWxdQZqkZ/giphy.gif)
+![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
+
 
 
 <!--
