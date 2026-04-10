@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey I'm Ryan 
+
+![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
+
 
 <!--
 **ryanshabaneh/ryanshabaneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
