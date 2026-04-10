@@ -1,4 +1,4 @@
-## Hey I'm Ryan 
+## hey, i'm ryan
 
 ![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
 
