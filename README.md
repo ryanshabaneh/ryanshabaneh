@@ -4,8 +4,7 @@
 
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
 
 ## 🖥️ Languages & Tools ⚙️
