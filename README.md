@@ -1,6 +1,4 @@
-Put the profile views on its own line below the streak card:
 
-markdown
 <div align="center">
 
 ## hey, i'm ryan
