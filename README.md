@@ -1,27 +1,12 @@
+<div align="center">
+
 ## hey, i'm ryan
 
 ![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blue&style=for-the-badge)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-
-<!--
-**ryanshabaneh/ryanshabaneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blueviolet&style=for-the-badge)
 
 ## 🖥️ Languages & Tools ⚙️
 
@@ -42,5 +27,5 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
+</div>
