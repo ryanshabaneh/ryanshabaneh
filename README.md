@@ -4,7 +4,7 @@
 
 ![kon](https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blueviolet&style=for-the-badge)
 
