@@ -1,10 +1,14 @@
+Put the profile views on its own line below the streak card:
+
+markdown
 <div align="center">
 
 ## hey, i'm ryan
 
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
 
 ## 🖥️ Languages & Tools ⚙️
@@ -28,3 +32,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+
+
+
