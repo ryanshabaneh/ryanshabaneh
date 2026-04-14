@@ -13,8 +13,7 @@
 - 🖥️ First-year computer science student at the University of Toronto
 - ⚙️ Building LLM workflows, RAG systems and data pipelines at CI Financial
 - 📚 Currently learning distributed systems to take Atlas Queue to the next level
-- 🎌 In my free time I'm probably trying a new baking recipe or a early 2000s TV show
-
+- 📺 In my free time I'm probably trying a new baking recipe or binging an early 2000s TV show
 ---
 
 ## 🖥️ Languages & Tools ⚙️
