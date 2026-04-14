@@ -2,9 +2,7 @@
 
 ## hey, i'm ryan
 
-![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blueviolet&style=for-the-badge)
 
