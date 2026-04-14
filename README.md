@@ -6,10 +6,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
-markdown[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=nord&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
