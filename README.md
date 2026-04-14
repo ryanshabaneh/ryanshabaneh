@@ -1,12 +1,21 @@
-
 <div align="center">
 
-## hey, i'm ryan
+# hey, i'm ryan 🦁
 
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
-
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
+
+---
+
+### 👨‍💻 About Me
+
+- 🖥️ First-year computer science student at the University of Toronto
+- ⚙️ Building RAG systems and data pipelines at CI Financial
+- 📚 Currently learning distributed systems to take Atlas Queue to the next level
+- 🎌 In my free time I'm probably trying a new baking recipe or a early 2000s TV show
+
+---
 
 ## 🖥️ Languages & Tools ⚙️
 
@@ -31,7 +40,3 @@
 ![snake](https://raw.githubusercontent.com/ryanshabaneh/ryanshabaneh/output/github-contribution-snake-dark.svg)
 
 </div>
-
-
-
-
