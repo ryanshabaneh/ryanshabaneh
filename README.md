@@ -2,7 +2,6 @@
 
 ## hey, i'm ryan
 
-![kon](https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif)
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
 
