@@ -3,6 +3,8 @@
 ## hey, i'm ryan
 
 ![kon](https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif)
+<img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
