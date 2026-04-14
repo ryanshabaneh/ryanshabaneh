@@ -4,8 +4,11 @@
 
 ![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=nord&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+Paste all four, screenshot what they look like, pick one, then delete the rest.
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blueviolet&style=for-the-badge)
 
 ## 🖥️ Languages & Tools ⚙️
