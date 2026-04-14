@@ -28,6 +28,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+![snake](https://github.com/ryanshabaneh/ryanshabaneh/blob/output/github-contribution-snake.svg)
+
 </div>
 
 
