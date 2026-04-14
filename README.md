@@ -6,9 +6,6 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=monokai&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=neon-blurange&hide_border=true)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
 
 ## 🖥️ Languages & Tools ⚙️
