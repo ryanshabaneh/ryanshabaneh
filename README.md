@@ -2,7 +2,6 @@
 
 ![kon](https://media0.giphy.com/media/GcoRWcZCAd2BDlLQQM/giphy.gif)
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanshabaneh&show_icons=true&theme=tokyonight&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ryanshabaneh&theme=tokyonight)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=blue&style=for-the-badge)
 
