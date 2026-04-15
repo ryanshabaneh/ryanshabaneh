@@ -10,9 +10,9 @@
 
 ---
 ### 👨‍💻 About Me
-- 🖥️ First-year computer science student at the University of Toronto
-- ⚙️ Building LLM workflows, RAG systems and data pipelines at CI Financial
-- 📺 In my true unproductive free time I'm definitely binging an early 2000s TV show or classic animes
+- 📚 First-year computer science student at the University of Toronto
+- 🧩 Building LLM workflows, RAG systems and data pipelines at CI Financial
+- 📺 In my true unproductive free time I'm rewatching Monster or Serial Experiments Lain
 ---
 ## 🖥️ Languages & Tools ⚙️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
