@@ -1,7 +1,10 @@
 <div align="center">
 # hey, i'm ryan 🦁
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-shabaneh)
+  
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
+
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
 ---
 ### 👨‍💻 About Me
@@ -31,7 +34,6 @@
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ![snake](https://raw.githubusercontent.com/ryanshabaneh/ryanshabaneh/output/github-contribution-snake-dark.svg)
 
 </div>
