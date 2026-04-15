@@ -1,6 +1,7 @@
 <div align="center">
 
 # hey, i'm ryan 🦁
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-shabaneh)
 
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
