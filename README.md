@@ -1,25 +1,15 @@
 <div align="center">
-
 # hey, i'm ryan 🦁
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-shabaneh)
-
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
-
 ![](https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge)
-
 ---
-
 ### 👨‍💻 About Me
-
 - 🖥️ First-year computer science student at the University of Toronto
 - ⚙️ Building LLM workflows, RAG systems and data pipelines at CI Financial
-- 📚 Currently going deep on distributed systems through Atlas Queue
-- 🔬 Prev ML Research @ Dalhousie University
 - 📺 In my true unproductive free time I'm definitely binging an early 2000s TV show or classic animes
 ---
-
 ## 🖥️ Languages & Tools ⚙️
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
