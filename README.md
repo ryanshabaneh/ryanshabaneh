@@ -28,6 +28,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-B39DDB?style=for-the-badge&logo=figma&logoColor=white)
 ![snake](https://raw.githubusercontent.com/ryanshabaneh/ryanshabaneh/output/github-contribution-snake-dark.svg)
+
 
 </div>
