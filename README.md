@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 📚 First-year CS student at the University of Toronto
 - 🧩 Building RAG systems, LLM workflows, and data pipelines at CI Financial
-- 📺 In my unproductive time I re-binge Naoki Urasawa's Monster or Serial Experiments Lain
+- 📺 In my unproductive time I usually re-binge Steins;Gate or Serial Experiments Lain
 ---
 ## 🖥️ Languages & Tools ⚙️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
