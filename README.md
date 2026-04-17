@@ -10,7 +10,7 @@
 
 ---
 ### 👨‍💻 About Me
-- 📚 First-year computer science student at the University of Toronto
+- 📚 First-year CS student at the University of Toronto
 - 🧩 Building LLM workflows, RAG systems and data pipelines at CI Financial
 - 📺 In my unproductive time I re-binge Naoki Urasawa's Monster or Serial Experiments Lain
 ---
