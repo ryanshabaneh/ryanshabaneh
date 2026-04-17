@@ -11,7 +11,7 @@
 ---
 ### 👨‍💻 About Me
 - 📚 First-year CS student at the University of Toronto
-- 🧩 Building LLM workflows, RAG systems and data pipelines at CI Financial
+- 🧩 Building RAG systems, LLM workflows, and data pipelines at CI Financial
 - 📺 In my unproductive time I re-binge Naoki Urasawa's Monster or Serial Experiments Lain
 ---
 ## 🖥️ Languages & Tools ⚙️
