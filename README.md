@@ -5,7 +5,7 @@
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanshabaneh&color=1a9bba&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ryanshabaneh&color=0A66C2&style=for-the-badge" />
   <a href="https://linkedin.com/in/ryan-shabaneh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
