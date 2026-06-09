@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 - 📚 First-year CS student at the University of Toronto
-- 🧩 Building RAG systems, LLM workflows, and data pipelines at CI Financial
+- 🧩 Working on AIMD for Atlas Queue and upcoming mechanistic interpretability project
 - 📺 In my unproductive time I am tweaking configs and re-binging Steins;Gate or Serial Experiments Lain
 
 ## 🖥️ Languages & Tools ⚙️
