@@ -14,8 +14,8 @@
 
 ### 👨‍💻 About Me
 - 📚 First-year CS student at the University of Toronto
-- 🧩 Working on AIMD for Atlas Queue and upcoming mechanistic interpretability project
-- 📺 In my unproductive time I am tweaking configs and re-binging Steins;Gate or Serial Experiments Lain
+- 🧩 Currently working with distributed systems and mech interp 
+- 📺 Outside of academics I enjoy travelling, exploring new foods and trying out different sports/activities
 
 ## 🖥️ Languages & Tools ⚙️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
