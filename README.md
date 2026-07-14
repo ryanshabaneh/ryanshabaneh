@@ -15,7 +15,6 @@
 ### 👨‍💻 About Me
 - 📚 First-year CS student at the University of Toronto
 - 🧩 Currently working with distributed systems and mech interp 
-- 📺 Outside of academics I enjoy travelling, exploring new foods and trying out different sports/activities
 
 ## 🖥️ Languages & Tools ⚙️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
