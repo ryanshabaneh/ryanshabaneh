@@ -1,6 +1,6 @@
 <div align="center">
   
-# hey, i'm ryan 🦁
+# hey, i'm ryan 
 
 <img src="https://media1.tenor.com/m/il0vuavrpSMAAAAC/bleach-kuorsaki-ichigo.gif" width="300"/>
 
