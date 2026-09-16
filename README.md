@@ -13,7 +13,7 @@
 
 
 ### 👨‍💻 About Me
-- 📚 Second-year CS student at University of Toronto
+- 📚 CS student at University of Toronto
 - 🧩 Currently working with distributed systems and mech interp 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
