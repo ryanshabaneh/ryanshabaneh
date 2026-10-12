@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 - 📚 CS student at University of Toronto
-- 🧩 Currently working with distributed systems and mech interp 
+- 🧩 Currently working with multi-agent RL oversight and LLM advesarial robustness 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1A3F6F?style=for-the-badge&logo=python&logoColor=white)
